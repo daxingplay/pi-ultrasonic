@@ -1,0 +1,24 @@
+{
+  "name": "pi-ultrasonic",
+  "version": "0.0.1",
+  "description": "ultrasonic distance measurement based on NodeJS and Pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:daxingplay/pi-ultrasonic.git"
+  },
+  "keywords": [
+    "raspberry",
+    "ultrasonic",
+    "nodejs"
+  ],
+  "author": "daxingplay@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daxingplay/pi-ultrasonic/issues"
+  },
+  "homepage": "https://github.com/daxingplay/pi-ultrasonic"
+}
